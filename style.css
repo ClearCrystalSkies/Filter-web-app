@@ -10,10 +10,19 @@ h1{
 }
 canvas{
     border: 10px solid blue;
+    margin-left: 400px;
 }
 img{
     width: 30px;
 }
 button{
     margin: 10px;
+}
+.btn{
+    width:10px;
+    height: 100px;
+}
+footer{
+    float: bottom;
+    padding-left: 90%;
 }
